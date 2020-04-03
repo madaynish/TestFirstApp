@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <b>This is the testing azure DevOps.Thanks..</b>
+    <b>This is the testing azure DevOps.Thanks...</b>
     </div>
     </form>
 </body>
